@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jemil</h1>
+<h1 align="center">Hi 👋, I'm lazyDev </h1>
 <h3 align="center">A Full Stack React developer based in (MERN stack)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 

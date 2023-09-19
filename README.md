@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jemil</h1>
-<h3 align="center">A full stack developer based in (MERN stack)</h3>
+<h3 align="center">A Full Stack React developer based in (MERN stack)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemilcodes&label=Profile%20views&color=0e75b6&style=flat" alt="jemilcodes" /> </p>
